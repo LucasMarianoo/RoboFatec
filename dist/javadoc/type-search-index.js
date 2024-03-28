@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"robofatec","l":"Calculadora"},{"p":"robofatec","l":"Robo"},{"p":"robofatec","l":"RoboFatec"}];updateSearchResults();

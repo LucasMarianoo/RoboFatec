@@ -14,10 +14,10 @@ public class Robo {
     private String dtFab;
     private int bateria;
 
-    public Robo(String nome, String dtFab, int bateria) {
-        this.nome = nome;
-        this.dtFab = dtFab;
-        this.bateria = bateria;
+    public Robo() {
+        this.nome = "Roboto";
+        this.dtFab = "20-03-2024";
+        this.bateria = 4;
     }
 
     public String getNome() {
